@@ -31,7 +31,7 @@
 ## Assembly
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [collapseos](https://github.com/hsoft/collapseos) | Bootstrap post-collapse technology | hsoft | 601 |
+| 1 |  [collapseos](https://github.com/hsoft/collapseos) | Bootstrap post-collapse technology | hsoft | 602 |
 
 ## C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -50,7 +50,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [HttpClient](https://github.com/amcewen/HttpClient) | Arduino HTTP library | amcewen | 230 |
 | 2 |  [hermes](https://github.com/facebook/hermes) | Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android. | facebook | 4601 |
-| 3 |  [nodegui](https://github.com/nodegui/nodegui) | A library for building cross-platform native desktop applications with JavaScript and CSS like styling 🚀.  For React NodeGUI, visit: https://github.com/nodegui/react-nodegui ⚛️ | nodegui | 3388 |
+| 3 |  [nodegui](https://github.com/nodegui/nodegui) | A library for building cross-platform native desktop applications with JavaScript and CSS like styling 🚀.  For React NodeGUI, visit: https://github.com/nodegui/react-nodegui ⚛️ | nodegui | 3389 |
 | 4 |  [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree | bitcoin | 40324 |
 | 5 |  [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | godotengine | 24917 |
 | 6 |  [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | electron | 77412 |
@@ -68,7 +68,7 @@
 | 8 |  [css](https://github.com/primer/css) | The CSS design system that powers GitHub | primer | 8620 |
 | 9 |  [Toast](https://github.com/daneden/Toast) | 🍞 A highly-customizable, responsive (S)CSS grid | daneden | 1983 |
 | 10 |  [animate.css](https://github.com/daneden/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | daneden | 62390 |
-| 11 |  [bulma](https://github.com/jgthms/bulma) | Modern CSS framework based on Flexbox | jgthms | 36875 |
+| 11 |  [bulma](https://github.com/jgthms/bulma) | Modern CSS framework based on Flexbox | jgthms | 36876 |
 
 ## Clojure
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -111,7 +111,7 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [svgr](https://github.com/smooth-code/svgr) | Transform SVGs into React components 🦁 | smooth-code | 5184 |
+| 1 |  [svgr](https://github.com/smooth-code/svgr) | Transform SVGs into React components 🦁 | smooth-code | 5185 |
 | 2 |  [awesome-learning](https://github.com/wayfair/awesome-learning) | Awesome Learning - Learn JavaScript and Front-End Fundamentals at your own pace | wayfair | 116 |
 | 3 |  [nuxt-netlify](https://github.com/bazzite/nuxt-netlify) | Dynamically generate _headers and _redirects files for Netlify in your Nuxt.js projects | bazzite | 41 |
 | 4 |  [brazilian-geographic-data](https://github.com/VitorLuizC/brazilian-geographic-data) | 🇧🇷 Regions, states, cities, neighborhoods and other brazilian geographic data. | VitorLuizC | 38 |
@@ -164,7 +164,7 @@
 | 51 |  [axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js | axios | 65272 |
 | 52 |  [three.js](https://github.com/mrdoob/three.js) | JavaScript 3D library. | mrdoob | 55161 |
 | 53 |  [gatsby](https://github.com/gatsbyjs/gatsby) | Build blazing fast, modern apps and websites with React | gatsbyjs | 39012 |
-| 54 |  [svelte](https://github.com/sveltejs/svelte) | Cybernetically enhanced web apps | sveltejs | 24374 |
+| 54 |  [svelte](https://github.com/sveltejs/svelte) | Cybernetically enhanced web apps | sveltejs | 24376 |
 | 55 |  [Magic-Grid](https://github.com/e-oj/Magic-Grid) | A simple, lightweight Javascript library for dynamic grid layouts. | e-oj | 2398 |
 | 56 |  [engine.io](https://github.com/socketio/engine.io) |  | socketio | 3856 |
 | 57 |  [javascript_cardio](https://github.com/bradtraversy/javascript_cardio) | JavaScript challenges and problems | bradtraversy | 170 |
