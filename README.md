@@ -31,7 +31,7 @@
 ## Assembly
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [collapseos](https://github.com/hsoft/collapseos) | Bootstrap post-collapse technology | hsoft | 600 |
+| 1 |  [collapseos](https://github.com/hsoft/collapseos) | Bootstrap post-collapse technology | hsoft | 601 |
 
 ## C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -152,7 +152,7 @@
 | 39 |  [notes](https://github.com/SimonDEvans/notes) | Offline-first notepad PWA | SimonDEvans | 134 |
 | 40 |  [musicTweet](https://github.com/jaredallard/musicTweet) | Set your Twitter username to your current playing on Spotify. Also has a web page. | jaredallard | 4 |
 | 41 |  [Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the &lt;canvas&gt; tag | chartjs | 45538 |
-| 42 |  [bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | twbs | 136184 |
+| 42 |  [bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | twbs | 136185 |
 | 43 |  [reveal.js](https://github.com/hakimel/reveal.js) | The HTML Presentation Framework | hakimel | 48575 |
 | 44 |  [vuepress](https://github.com/vuejs/vuepress) | 📝 Minimalistic Vue-powered static site generator | vuejs | 14290 |
 | 45 |  [btc-value](https://github.com/Knutakir/btc-value) | 💸 Get the current Bitcoin value | Knutakir | 4 |
@@ -224,7 +224,7 @@
 | 12 |  [awesome-javascript](https://github.com/sorrycc/awesome-javascript) | 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. | sorrycc | 18686 |
 | 13 |  [learningPixi](https://github.com/kittykatattack/learningPixi) | A step-by-step introduction to making games and interactive media with the Pixi.js rendering engine. | kittykatattack | 2908 |
 | 14 |  [javascript-questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations :sparkles: | lydiahallie | 12136 |
-| 15 |  [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series on JavaScript. @YDKJS on twitter. | getify | 109463 |
+| 15 |  [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series on JavaScript. @YDKJS on twitter. | getify | 109464 |
 | 16 |  [eloquente-javascript](https://github.com/braziljs/eloquente-javascript) | Tradução do livro Eloquent JavaScript - 2ª edição. | braziljs | 1797 |
 | 17 |  [traduz-ai](https://github.com/ericdouglas/traduz-ai) | :pencil: Coleção de artigos de desenvolvimento de software traduzidos para pt-br | ericdouglas | 1196 |
 | 18 |  [front-end-do-zero](https://github.com/carolcodes/front-end-do-zero) | Um guia de estudos acessível para se tornar front end | carolcodes | 143 |
